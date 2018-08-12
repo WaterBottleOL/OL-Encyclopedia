@@ -1,0 +1,10 @@
+These are the updated ency files.
+Do NOT copy them to your regular ency directory, this will be undone by automatic updates. The procedure below is done at your own risk!
+
+1) Copy the original files from 
+	Program Files/Other-Life/languages/en 
+	to Program Files/Other-Life/languages/de (or some other unused language)
+2) Copy the updated files there too, overwriting the original ones
+3) Change the language to "de" in Documents/Other-Life/other-life/ol.ini  
+Comment: You cannnot change the language in-game
+4) Relog and you should be able to use the updated ency files
